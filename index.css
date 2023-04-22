@@ -1,0 +1,60 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e6e6e6;
+    padding: 0 20px;
+  }
+  
+  .logo {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 39px;
+    width: 127px;
+    border-radius: 0px;
+    margin: 0;
+  }
+  
+  .nav-link {
+    font-family: Montserrat;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 34px;
+    border-radius: 0px;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #ffffff;
+  }
+  
+  .home {
+    width: 87px;
+    background-color: #000000;
+  }
+  
+  .about {
+    width: 130px;
+    background-color: #000000;
+  }
+  
+  .contact {
+    width: 155px;
+    background-color: #000000;
+  }
+  
+  .login {
+    width: 80px;
+    background-color: #000000;
+  }
+  
